@@ -6,7 +6,7 @@ function GameObject(obj)
 		this.width = 100;
 		this.height = 100;
 		this.color = "#ff0000";
-		this.force = 1;
+		this.force = 2;
 		this.ax = 1;
 		this.ay = 1;
 		this.vx = 0;
